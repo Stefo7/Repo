@@ -1,0 +1,2 @@
+# Repo
+moje-komponenty
